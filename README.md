@@ -1,0 +1,5 @@
+# NavComponent-Demo
+
+An example using a single activity, several fragments, animations, arguments, with Navigation Components (Kotlin)
+
+![nav component graph](https://camo.githubusercontent.com/a8815d5738f1ad9be7733f3b8a0aca4934db7b2f3d2eda97aaf7b4b933bf26d1/68747470733a2f2f636f64696e67776974686d697463682e73332e63612d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f6d656469612f6f746865722f6e617669676174696f6e2b67726170682e706e67)
